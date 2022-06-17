@@ -29,7 +29,7 @@ p {
 .container {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fit,204px);
+    grid-template-columns: repeat(auto-fit,202px);
     place-content: center;
     gap: 0;
 }
@@ -61,7 +61,7 @@ p {
 }
 
 button {
-    margin-top: 70px;
+    margin-top: 60px;
     margin-left: 30px;
     border-radius: 20px;
     background-color: white;
